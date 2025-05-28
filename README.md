@@ -1,1 +1,1 @@
-# Lunar Landing using Deep-Q-Network
+# Lunar Lander Agent using Deep Q-Network
